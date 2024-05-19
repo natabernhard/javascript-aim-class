@@ -1,0 +1,40 @@
+Which of the following values are primitives?
+--All of the above (number; string; boolean)
+How many primitive data types are there?
+-- 7 (Number; String; Boolean; Undefined; Null; Symbol; BigInt)
+How many non-primitive data types are there?
+-- 1 (Objects)
+The data type string stores sequences of characters enclosed in what?
+-- All of the Above (single quotes, double quotes, backticks)
+Escaping a character is done with which of the following?
+-- \
+Data type numbers are fixed as 64-bit values. True or false?
+-- True
+Calculations are more accurate with floats than with integers. True or false?
+-- False 
+What does the following code log? 
+ console.log (typeof NaN);
+ number
+ Data type BigNum represents large numbers that cannot be represented by the data type number. True or false?
+ -- True
+ Which of the following is a floating-point number?
+-- 10.3
+JavaScript has separate data types for integers and floats. True or false?
+-- False
+What does the following code log?
+ let a = 'Hello';
+ console.log(a[1]);
+ -- 'e'
+ How do you retrieve the total number of characters of a string s?
+s.length
+Which of the following denotes a boolean in JavaScript?
+-- None of the above (true or false are supposed to be in lowercase)
+Strings are mutable in nature. True or false?
+ -- False
+ What does the following code log?
+ let a = 'Hello';
+ console.log(typeof a);
+ string
+ What does the following code log?
+-- console.log(typeof null);
+ -- object
